@@ -11,6 +11,8 @@ I am Sourav Dutta, I have no hobbies and must code to pass the time away. Really
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+<p align='center'><img src='https://raw.githubusercontent.com/papichoolo/papichoolo/output/github-contribution-grid-snake.svg'></p>
+
 <!--
 **papichoolo/papichoolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
