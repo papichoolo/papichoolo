@@ -6,9 +6,9 @@ I am Sourav Dutta, I have no hobbies and must code to pass the time away. Really
 [![An image of @papichoolo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papichoolo)](https://holopin.io/@papichoolo)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/papichoolo/papichoolo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/papichoolo/papichoolo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/papichoolo/papichoolo/output/github-contribution-grid-snake.svg">
 </picture>
 
 
