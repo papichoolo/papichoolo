@@ -4,6 +4,13 @@ I am Sourav Dutta, I have no hobbies and must code to pass the time away. Really
 
 
 [![An image of @papichoolo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papichoolo)](https://holopin.io/@papichoolo)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <!--
 **papichoolo/papichoolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
