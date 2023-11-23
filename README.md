@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sourav Dutta, I have no hobbies and must code to pass the time away. Really into Artificial Intelligence and Data Science. I recently worked on a lot of Stuff related to LLMs. I am a contributor in two Omdena Projects, both are pinned below. I also participated in Hacktoberfest 2023.
+I am Sourav Dutta, I have no hobbies and must code to pass the time away. Really into Artificial Intelligence and Data Science. I recently worked on a lot of Stuff related to LLMs. I am a contributor in two Omdena Projects, both are pinned below. I also participated in Hacktoberfest 2023. Have fun!
 
 
 [![An image of @papichoolo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/papichoolo)](https://holopin.io/@papichoolo)
